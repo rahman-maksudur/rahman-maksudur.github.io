@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>Impression</caption>
+  <note/>
+  <place/>
+  <categories>
+    <category value="deep learning"/>
+    <category value="deep machine learning"/>
+    <category value="deep"/>
+    <category value="structured"/>
+    <category value="learning"/>
+    <category value="hierarchical learning"/>
+    <category value="big"/>
+    <category value="data"/>
+    <category value="mining"/>
+    <category value="words"/>
+    <category value="text"/>
+    <category value="tag"/>
+    <category value="cloud"/>
+    <category value="algorithms"/>
+  </categories>
+</comment>
